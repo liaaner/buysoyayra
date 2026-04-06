@@ -1,0 +1,11 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="soyaraGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff3f6c" />
+      <stop offset="100%" stop-color="#0082c3" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="#ffffff" rx="120" />
+  <text x="256" y="250" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="160" letter-spacing="5" fill="#282c3f" text-anchor="middle">BUY</text>
+  <text x="256" y="400" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-style="italic" font-size="160" letter-spacing="-3" fill="url(#soyaraGrad)" text-anchor="middle">Soyara</text>
+</svg>
